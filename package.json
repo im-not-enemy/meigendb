@@ -1,0 +1,17 @@
+{
+  "name": "meigendb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "im-not-enemy <imnotenemy93@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}
